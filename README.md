@@ -22,7 +22,7 @@
 
 **Report Writing**: Summarize the insights and findings from the analysis and communicate it effectively to the stakeholders.
 
-#**Problem Statement**
+# **Problem Statement**
 
 1. What are the top five earning Category?
 2. Top 5 earnings Apps
